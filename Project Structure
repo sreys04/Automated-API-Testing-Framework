@@ -1,0 +1,12 @@
+api-testing-framework/
+├── postman/
+│   ├── Sample_API_Test_Collection.postman_collection.json
+│   ├── Test_Environment.postman_environment.json
+├── reports/
+│   ├── newman_report.html
+├── scripts/
+│   └── run_tests.py
+├── .github/
+│   └── workflows/
+│       └── api_test.yml
+├── README.md
